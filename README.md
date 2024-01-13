@@ -1,1 +1,1 @@
-This Is The Full in-Deptah Course For Javascripts.
+This Is The Full in-Depth Course For Javascripts.
